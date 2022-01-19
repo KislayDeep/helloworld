@@ -20,6 +20,8 @@ public class Main {
 
         Fruit f = new Fruit();
 
+//          Third random comment
+
         f.name = "Apple";
         f.eat();
         f.eat();
